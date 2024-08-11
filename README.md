@@ -17,6 +17,6 @@
 
 <h2>Preview</h2>
 <!-- Add images here -->
-<p><img src="C:\Users\ASUS\OneDrive\Documents\india_gate\1.png" alt="India Gate Model Preview 1" width="500"></p>
-<p><img src="C:\Users\ASUS\OneDrive\Documents\india_gate\2.png" alt="India Gate Model Preview 2" width="500"></p>
+<p><img src="./1.png" alt="India Gate Model Preview 1" width="500"></p>
+<p><img src="./2.png" alt="India Gate Model Preview 2" width="500"></p>
 
